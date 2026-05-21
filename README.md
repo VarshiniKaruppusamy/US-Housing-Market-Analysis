@@ -28,13 +28,17 @@ visualization, and Power BI for enterprise BI reporting.
 
 ---
 
-## Dashboard Previews
+## 📊 Dashboard Previews
 
-### Tableau
-![US Housing_tableau.png)
+### Power BI Dashboard
+📄 **[View Power BI PDF](PowerBI/US_Housing_Market_Analysis_using_Zillow_data_PowerBI.pdf)**
 
-### Power BI
-![US Housing Market_PoerBI.png)
+![Power BI Dashboard](plots/US_Housing_Market_PowerBI.png)
+
+### Tableau Dashboard
+👉 **[View Tableau Dashboard](YOUR TABLEAU PUBLIC URL HERE)**
+
+![Tableau Dashboard](plots/US_Housing_tableau.png)
 
 ---
 
